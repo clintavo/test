@@ -9,7 +9,7 @@ description: A test edit.
 Becoming a super hero is a fairly straight forward process:
 
 ```
-$ give me super-powers
+$ give me super-powers blah
 ```
 
 {% hint style="info" %}
