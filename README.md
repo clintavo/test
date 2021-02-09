@@ -6,7 +6,7 @@ description: A test edit.
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Give me superpowers.
 
 ```
 $ give me super-powers blah
